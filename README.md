@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Pedro Miranda 
 
 <div>
-  <a href="https://www.alissondouguerty.com.br" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peemiranda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
